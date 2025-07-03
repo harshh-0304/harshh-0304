@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Harsh</h1>
+<h1 align="center">Hey 👋 I'm Harsh D. Jadav</h1>
 <h3 align="center">.NET Core MVC | RESTful API Design | SQL & NoSQL Experience</h3>
 
 <p align="center">
@@ -16,6 +16,8 @@ I’m a software developer with experience building real-world applications usin
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
+
+**Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=000)
@@ -26,6 +28,7 @@ I’m a software developer with experience building real-world applications usin
 ![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?style=flat&logo=.net&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat&logo=mongodb&logoColor=white)
@@ -36,9 +39,8 @@ I’m a software developer with experience building real-world applications usin
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
-
----
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)---
 
 ### 📂 Featured Projects
 
@@ -61,6 +63,11 @@ A mental health quiz tool using SVM for binary classification. Collected 15K+ re
 **📸 Photo Adventures** *(minor project)*  
 > *Python + Django + HTML/CSS + JavaScript*  
 A simple social media web app for real-time photo sharing with map integration. Built for internal project submission during internship.
+
+**🧠 FaceSense – Facial Recognition App** *(WIP)*  
+> *Python + OpenCV + NumPy + Haar Cascades*  
+A face recognition tool using OpenCV to detect and identify faces from webcam or image input. Built as an exploration into computer vision and ML concepts.
+
 
 
 ---
