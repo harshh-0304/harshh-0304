@@ -40,19 +40,19 @@ I'm a software developer with a passion for backend development and a focus on b
 
 ### 📂 Projects
 
-**🧾 Retail Inventory & Billing ERP**  
+**🧾 [Retail Inventory & Billing ERP](https://github.com/harshh-0304/Photo-Adventures)**  
 > *React + ASP.NET Core MVC + SQL Server*  
 Inventory and billing system with product tracking, customer records, and invoice generation. Uses RDLC reports and basic authentication.
 
-**🏫 School Management System**  
+**🏫 [School Management System](https://github.com/harshh-0304/school-management)**  
 > *ASP.NET MVC + Razor Views + EF Core*  
 Role-based admin panel to manage students, teachers, and class schedules. Built with CRUD features and secure login.
 
-**🏡 ChillSpace – Airbnb Clone**  
+**🏡 [ChillSpace – Airbnb Clone](https://chilspace.vercel.app)**  
 > *MERN Stack (MongoDB, Express, React, Node.js)*  
 A platform where users can list and book rental spaces. Includes image upload, secure auth, and dynamic availability.
 
-**🧠 Psyche-Quiz**  
+**🧠 [Psyche-Quiz](https://psyche-quiz.onrender.com/)**  
 > *Flask + JavaScript + HTML/CSS + SVM*  
 A mental health self-assessment tool using binary classification. Collected 15K+ entries for mood analysis.
 
@@ -75,7 +75,6 @@ A mental health self-assessment tool using binary classification. Collected 15K+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-0304&layout=compact&theme=default" />
 </p>
 
-
 ---
 
 ### 📫 Contact Me
@@ -86,6 +85,9 @@ A mental health self-assessment tool using binary classification. Collected 15K+
   </a>
   <a href="mailto:harshjadav332004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshh-0304">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
