@@ -9,7 +9,8 @@
 
 ### 👨‍💻 About Me
 
-I'm a software developer with a passion for backend development and a focus on building practical, real-world applications. I’ve worked with both **.NET Core MVC** and the **MERN stack**, and I enjoy turning ideas into working solutions through clean code and solid database design. I'm always learning — currently diving deeper into Microsoft technologies and scalable system desig
+I'm a software developer with a passion for backend development and a focus on building practical, real-world applications. I’ve worked with both **.NET Core MVC** and the **MERN stack**, and I enjoy turning ideas into working solutions through clean code and solid database design. I'm always learning — currently diving deeper into Microsoft technologies and scalable system design .
+
 ---
 
 ### 🛠️ Tech Stack
