@@ -70,12 +70,10 @@ A mental health self-assessment tool using binary classification. Collected 15K+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshh-0304&show_icons=true&theme=default&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshh-0304&show_icons=true&theme=default&count_private=true&include_all_commits=true&token=YOUR_PERSONAL_TOKEN" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshh-0304&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-0304&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-0304&layout=compact&theme=default&token=YOUR_PERSONAL_TOKEN" />
 </p>
-
----
 
 ### 📫 Contact Me
 
