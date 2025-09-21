@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Hey 👋 I'm Harsh D. Jadav</h1> 
   <h3>AI Engineer | Full-Stack Developer</h3> 
-  <a href="mailto:harshjadav332004@gmail.com">harshjadav332004@gmail.com</a>
+  <a href="mailto:harshjadav332004@gmail.com">harshjadav332004@gmail.com</a> |
   <a href="https://github.com/harshh-0304">Github</a> | 
   <a href="https://linkedin.com/in/harshh33">LinkedIn</a>
 </div>
