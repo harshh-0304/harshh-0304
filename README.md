@@ -22,7 +22,7 @@ Seeking to leverage my skills in innovative AI solutions for entry-level roles a
 
 ### 💼 Experience
 
-**AI Engineer Intern – DubFlix**  
+**AI Engineer – DubFlix**  
 *Jul 2025 – Present | Ahmedabad, Gujarat (On-site)*  
 - Managed and onboarded 15+ interns, guiding AI dubbing workflows and execution  
 - Contributed to multilingual AI-powered dubbing ensuring natural, culturally relevant output  
