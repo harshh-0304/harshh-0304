@@ -42,10 +42,18 @@ Seeking to leverage my skills in innovative AI solutions for entry-level roles a
 
 ### 📂 Projects
 
-🎙️ VoiceDesk – Free Voice-Based AI Assistant (Groq + gTTS)**
-A simple voice assistant built to understand speech, generate responses using Llama 3.3, and speak back using gTTS.  
-Created this to learn the full voice → text → AI → voice pipeline and understand how ASR, LLMs, and TTS connect in real applications.  
-Tech Used: Python, Groq Whisper, Llama 3.3, gTTS, PyAudio
+**🎙️ VoiceDesk – Local + Free Voice AI Assistant**  
+A lightweight Python-based voice assistant that listens, understands, and speaks—without using paid APIs.  
+Uses Groq Whisper for transcription, Llama 3.3 for response generation, and gTTS for speech output.  
+A helpful project to explore real conversational AI pipelines and audio processing.
+
+Tech Stack:  
+- ASR: Groq Whisper (free)  
+- LLM: Llama 3.3 70B (Groq)  
+- TTS: gTTS  
+- Audio: PyAudio  
+- Memory: Custom conversation buffer  
+
 
 **🧠 [Psyche-Quiz](https://psyche-quiz.onrender.com/)**  
 Built a Python/Flask mental health assessment platform with a dynamic quiz  
