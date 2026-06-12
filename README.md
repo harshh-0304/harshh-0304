@@ -85,7 +85,7 @@ Full-stack Airbnb-style rental platform with real-time booking workflows, JWT au
 
 ---
 
-### [Retail ERP System](https://github.com/harshh-0304/Retail-ERP-System) — Enterprise Web App
+### [Retail ERP System](https://github.com/harshh-0304/Retail-ERP-system-) — Enterprise Web App
 > ASP.NET MVC · 3-Tier Architecture · SQL Server · JWT Auth
 
 Modular ERP system using ASP.NET MVC 3-tier architecture covering inventory management, user roles, JWT-based authentication, and SQL Server — enterprise-grade backend design.
