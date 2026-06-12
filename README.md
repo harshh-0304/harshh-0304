@@ -92,7 +92,7 @@ Modular ERP system using ASP.NET MVC 3-tier architecture covering inventory mana
 
 ---
 
-### [VoiceDesk](https://github.com/harshh-0304) — Local Voice AI Assistant
+### [VoiceDesk](https://github.com/harshh-0304https://github.com/harshh-0304/VoiceDesk) — Local Voice AI Assistant
 > Python · Groq Whisper · Llama 3.3 · gTTS · PyAudio
 
 Lightweight Python voice assistant pipeline using Groq Whisper for ASR, Llama 3.3 70B for response generation, and gTTS for speech output — with a custom conversation memory buffer. No paid APIs required.
