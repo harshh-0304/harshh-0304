@@ -4,6 +4,16 @@
 
 ### Backend Engineer · NestJS · TypeScript · PostgreSQL · AI Developer
 
+🌐 Portfolio: https://harsh-jadav.vercel.app
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://harsh-jadav.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/harshh33)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshh-0304)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bakasakuta33@gmail.com)
+
+</div>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshh33)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshh-0304)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshjadav332004@gmail.com)
