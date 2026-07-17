@@ -6,13 +6,12 @@
 
 🌐 Portfolio: https://harsh-jadav.vercel.app
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://harsh-jadav.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/harshh33)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshh-0304)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bakasakuta33@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-jadav.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshh33)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshh-0304)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakasakuta33@gmail.com)
 
 </div>
-
 
 ---
 
@@ -22,9 +21,9 @@ Backend Engineer with production experience building scalable REST APIs, transac
 
 Designed and developed the backend for **[Betorra](https://dev.betorra.com/)** — a multi-provider gaming platform integrating **1,200+ games across 4 external providers** — handling wallet callbacks, idempotent transactions, session management, and provider certification support in an AWS-hosted environment.
 
-Also working as an AI Engineer at **DubFlix**, building multilingual NLP pipelines for AI-powered dubbing workflows.
+Previously worked as an AI Engineer at **DubFlix**, building multilingual NLP pipelines for AI-powered dubbing workflows.
 
-```
+```text
 🔧  Primary Stack   →   NestJS · TypeScript · PostgreSQL · Prisma ORM · REST APIs
 🐍  Secondary Stack →   Python · Django · Flask · ML/NLP Pipelines
 ☁️  Cloud           →   AWS (EC2, S3)
@@ -36,7 +35,7 @@ Also working as an AI Engineer at **DubFlix**, building multilingual NLP pipelin
 ## 🏭 Production Experience
 
 ### Backend Engineer — Betorra Gaming Platform
-> **Jan 2025 – Jun 2025** · NestJS · TypeScript · PostgreSQL · Prisma ORM · AWS
+> **Jan 2026 – Present** · NestJS · TypeScript · PostgreSQL · Prisma ORM · AWS
 
 **[Betorra](https://dev.betorra.com/)** is a multi-provider gaming platform. I was responsible for designing and building the backend from the ground up.
 
@@ -52,7 +51,7 @@ Also working as an AI Engineer at **DubFlix**, building multilingual NLP pipelin
 ---
 
 ### AI Engineer — DubFlix
-> **Jul 2025 – Present** · Python · NLP · Speech Synthesis · AI/ML Pipelines
+> **Jun 2025 – Dec 2025** · Python · NLP · Speech Synthesis · AI/ML Pipelines
 
 - Optimised multilingual **NLP processing pipelines** supporting AI-powered dubbing workflows across 5+ target languages
 - Contributed to audio-processing and speech-synthesis integrations for production-scale dubbing workloads
@@ -119,7 +118,7 @@ Full-stack institutional platform with role-based access control, CRUD operation
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### Backend
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -128,15 +127,15 @@ Full-stack institutional platform with role-based access control, CRUD operation
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Languages**
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-**Databases & ORM**
+### Databases & ORM
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -144,7 +143,7 @@ Full-stack institutional platform with role-based access control, CRUD operation
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-**Cloud & Tools**
+### Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -153,7 +152,7 @@ Full-stack institutional platform with role-based access control, CRUD operation
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**AI / ML**
+### AI / ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
