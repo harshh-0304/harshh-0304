@@ -164,10 +164,10 @@ Full-stack institutional platform with role-based access control, CRUD operation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshh-0304&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshh-0304&theme=github-dark-blue&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshh-0304&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=harshh-0304&theme=github-dark-blue&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-0304&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="140"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshh-0304&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="140"/>
 
 </div>
 
@@ -178,7 +178,7 @@ Full-stack institutional platform with role-based access control, CRUD operation
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshh33)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshjadav332004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakasakuta33@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshh-0304)
 
 </div>
