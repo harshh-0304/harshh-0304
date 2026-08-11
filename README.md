@@ -6,7 +6,7 @@
 
 🌐 Portfolio: https://harshjadav.com
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-jadav.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://harshjadav.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshh33)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshh-0304)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakasakuta33@gmail.com)
@@ -164,14 +164,12 @@ Full-stack institutional platform with role-based access control, CRUD operation
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshh-0304&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com/?user=harshh-0304&theme=github-dark-blue&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshh-0304&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshh-0304&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="140"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshh-0304&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
----
 
 ## 📫 Let's Connect
 
