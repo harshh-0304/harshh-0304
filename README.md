@@ -4,7 +4,7 @@
 
 ### Backend Engineer · NestJS · TypeScript · PostgreSQL · AI Developer
 
-🌐 Portfolio: https://harsh-jadav.vercel.app
+🌐 Portfolio: https://harshjadav.com
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-jadav.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshh33)
